@@ -14,7 +14,7 @@ As principais entidades de relacionamento são:
 
 SGBDs Utilizados:
 * MySQL
-* Oracle DB
+* SqlDeveloper
 
 Relatórios importantes:
 * Relatório de departamento
